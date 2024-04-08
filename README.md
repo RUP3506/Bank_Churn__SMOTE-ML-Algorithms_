@@ -1,2 +1,2 @@
-# Bank_Churn__SMOTE-ML-Algorithms_
+# Bank_Churn__SMOTE-ML
 Bank churn detection in depth analysis  
